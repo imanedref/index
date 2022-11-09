@@ -26,7 +26,7 @@
 
 <?php
 $user = "omega";
-$password = "omega";
+$password = "caux";
 $database = "omega";
 $table = "employee";
 
