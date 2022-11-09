@@ -2,7 +2,7 @@
 <center><html>
   <body style="background-color:SkyBlue;">
 	<form method="post" action="process.php">
-		<img src="https://www.google.fr/imgres?imgurl=http%3A%2F%2Fwww.cieillico.fr%2Fwp-content%2Fuploads%2F2018%2F02%2FMorel-informatique-500x375.jpg&imgrefurl=https%3A%2F%2Fwww.cieillico.fr%2Flinformatique-dans-la-vie-courante%2F&tbnid=gCZJEUlrJ-emuM&vet=10CAUQxiAoBWoXChMI4MHB7rGh-wIVAAAAAB0AAAAAEBA..i&docid=51kclTSQNkz4EM&w=500&h=375&itg=1&q=informatique&ved=0CAUQxiAoBWoXChMI4MHB7rGh-wIVAAAAAB0AAAAAEBA" alt="Simply Easy Learning" width="220" height="150">
+		<img src="https://leseco.ma/wp-content/uploads/2022/03/Safi-1.jpg" alt="Simply Easy Learning" width="220" height="150">
 		<title>Formation DEVOPS</title>
                 <h1 style="background-color:rgba(255, 99, 71, 0.5);">Imane Drif</h1>
 		First name:<br>
